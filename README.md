@@ -1,0 +1,1 @@
+I'm Joe Hartland, and in this repository you'll find some examples of code that I've worked on and tweaked as I became more involved with Information Technology. If you have any questions, feel free to ask.
